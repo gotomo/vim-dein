@@ -1,5 +1,7 @@
 filetype off
 
+set shellslash
+
 " プラグインが実際にインストールされるディレクトリ
 let s:dein_dir = expand('~/.cache/dein')
 " dein.vim 本体
